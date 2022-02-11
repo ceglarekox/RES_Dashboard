@@ -27,7 +27,7 @@ class RESMeasuringPoint:
         - second column contains power level samples registered in that time in kW
         :param res_type: 'wind' for wind turbines or 'pv' for solar plants.
         """
-        / Users / marcinceglarek / Desktop / Python / magisterka / RESMeasuringPoint
+
         self.__name = name
         self.__installed_power = installed_power
         self.__hist_data_path = hist_data_path
